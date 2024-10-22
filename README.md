@@ -2,6 +2,8 @@
 
 System Administrator & Developer passionate about IT infrastructure, AI development, and open-source technologies.
 
+🔄 Recently migrated from GitLab (September 2024) - Building my new coding home here! Previous work history and contributions can be found on my GitLab profile.
+
 ## 🔧 Technologies & Tools
 
 ### Main Areas
