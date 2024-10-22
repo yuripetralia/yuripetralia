@@ -14,11 +14,11 @@ System Administrator & Developer passionate about IT infrastructure, AI developm
 
 ### Tech Stack
 ```text
-Languages:         Python, PHP, C++, Java, HTML/CSS
+Languages:         Python, PHP, C++, HTML/CSS
 Frameworks:        Laravel, Pytorch, Langchain, Streamlit
 Infrastructure:    Docker, Proxmox, Teleport
-DevOps:           Conda, Git, Linux Administration
-AI/ML:            Deep Learning, LLMs, scikit-learn, pandas
+DevOps:            Conda, Git, Linux Administration
+AI/ML:             Deep Learning, LLMs, scikit-learn, pandas
 ```
 
 ## 💼 What I do
