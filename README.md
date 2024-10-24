@@ -37,14 +37,6 @@ AI/ML:             Deep Learning, LLMs, scikit-learn, pandas
 ## ⚡ Fun Facts
 - Hardware enthusiast with a passion for server architecture
 - Former Kendo athlete (3rd Dan)
-- Always excited to learn new technologies and share knowledge
-
-## 🎯 Interests
-- System Architecture
-- AI/ML Development
-- Infrastructure Optimization
-- Open Source Technologies
-- Hardware Engineering
 
 ## 📫 How to reach me
 Feel free to connect with me on professional networks!
