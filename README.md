@@ -18,7 +18,7 @@ Languages:         Python, PHP, C++, HTML/CSS
 Frameworks:        Laravel, Pytorch, Langchain, Streamlit
 Infrastructure:    Docker, Proxmox, Teleport
 DevOps:            Conda, Git, Linux Administration
-AI/ML:             Deep Learning, LLMs, scikit-learn, pandas
+AI/ML:             Deep Learning, LLMs, Diffusion Models
 ```
 
 ## 💼 What I do
