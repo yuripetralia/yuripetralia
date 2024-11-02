@@ -29,17 +29,9 @@ AI/ML:             Deep Learning, LLMs, Diffusion Models
 - Implement secure remote access solutions
 - Work with containerized applications
 
-## 🌱 Current Focus
-- Expanding my knowledge in Deep Learning and LLMs
-- Exploring new virtualization technologies
-- Improving infrastructure automation
-
 ## ⚡ Fun Facts
 - Hardware enthusiast with a passion for server architecture
 - Former Kendo athlete (3rd Dan)
-
-## 📫 How to reach me
-Feel free to connect with me on professional networks!
 
 ---
 *"The best way to end a day is with a good Margherita Pizza" - Living by this principle*
